@@ -3,7 +3,7 @@ name: douban
 on: 
   schedule:
   #- cron: "50 * * * *"
-  - cron: "0 0,5,16,18,23 * * *"
+  - cron: "0 0,5,18,23 * * *"
   watch:
     types: [started]
 
