@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>读书观影记录</title>
+    
+    
+    
+    <link>https://hf.xzgl.site/</link>
+    <description>Recent content on 读书观影记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 05 Mar 2023 01:35:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://hf.xzgl.site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://hf.xzgl.site/second/</link>
+      <pubDate>Sun, 05 Mar 2023 01:35:36 +0800</pubDate>
+      
+      <guid>https://hf.xzgl.site/second/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://hf.xzgl.site/first/</link>
+      <pubDate>Sun, 05 Mar 2023 01:08:54 +0800</pubDate>
+      
+      <guid>https://hf.xzgl.site/first/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My first Post
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hf.xzgl.site/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hi there#My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
+We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://hf.xzgl.site/hello/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://hf.xzgl.site/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://hf.xzgl.site/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/archive/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>我的观影</title>
+      <link>https://hf.xzgl.site/movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/movies/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>我的阅读</title>
+      <link>https://hf.xzgl.site/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/books/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 读书观影记录</title>
+    
+    
+    
+    <link>https://hf.xzgl.site/posts/</link>
+    <description>Recent content in Posts on 读书观影记录</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 05 Mar 2023 01:35:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://hf.xzgl.site/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second</title>
+      <link>https://hf.xzgl.site/second/</link>
+      <pubDate>Sun, 05 Mar 2023 01:35:36 +0800</pubDate>
+      
+      <guid>https://hf.xzgl.site/second/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://hf.xzgl.site/first/</link>
+      <pubDate>Sun, 05 Mar 2023 01:08:54 +0800</pubDate>
+      
+      <guid>https://hf.xzgl.site/first/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          My first Post
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://hf.xzgl.site/hello/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hf.xzgl.site/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://hf.xzgl.site/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
